@@ -8,10 +8,13 @@ Throughout my academic career, I gained proficiency in SQL, Python, R, and C#, w
 
 # Table of Contents:
 Data Exploration Project Using R -> [R](https://github.com/ThaliaSylvester/DataAnalyticsPortfolio/tree/main/R)
+
 Overview of a data exploration project using R to uncover patterns and trends in aprtments prices in West Campus (College neighborhood adjacent to UT Austin).
 
 Retirement Sensitivity Analysis in Excel -> [Excel](https://github.com/ThaliaSylvester/DataAnalyticsPortfolio/tree/main/Excel)
+
 A detailed analysis of retirement planning using advanced Excel functions and sensitivity analysis.
 
 End-to-End CMS Database Management Using SQL -> [SQL](https://github.com/ThaliaSylvester/DataAnalyticsPortfolio/tree/main/SQL)
+
 An end-to-end project focused on database management using SQL, highlighting data architecture, query optimization, and ETL.
